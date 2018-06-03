@@ -13,3 +13,5 @@ the on_tick event, but the event is only registered when it's needed and then
 unregistered right after - but I'm new to Factorio modding so I may have done
 something inefficient accidentally. Please feel free to submit a pull request
 if you have an improvement, or a Github issue if you find any bugs or issues!
+
+The steering wheel icon is available free at http://www.fatcow.com/free-icons
