@@ -1,0 +1,11 @@
+{
+ "name": "ClickToSteer",
+ "version": "0.1.0",
+ "title": "Click To Steer", 
+ "author": "beiju", 
+ "contact": "",
+ "homepage": "",
+ "description": "Click with the steering remote to change your vehicle's steering angle.", 
+ "factorio_version": "0.16",
+ "dependencies": ["base >= 0.16.0"]
+ }
